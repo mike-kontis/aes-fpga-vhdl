@@ -69,7 +69,6 @@ The final output matches the original plaintext, verifying the correct operation
 ```
 docs/          Thesis documentation and presentation
 images/        FPGA photos, architecture diagrams and screenshots
-quartus/       Quartus project files
 rtl/           VHDL source code
 simulations/   Testbenches and simulation files
 README.md
