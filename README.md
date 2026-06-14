@@ -140,8 +140,11 @@ The recovered plaintext is identical to the original input message.
 Kontis Michail
 
 Diploma Thesis Project
+
 Department of Computer Science and Engineering
+
 University of Ioannina
+
 Academic Year:  2025-2026
 
 ---
