@@ -137,11 +137,12 @@ The recovered plaintext is identical to the original input message.
 
 # Author
 
+Kontis Michail
+
 Diploma Thesis Project
-
-Department of Electrical and Computer Engineering
-
-University of Patras
+Department of Computer Science and Engineering
+University of Ioannina
+Academic Year:  2025-2026
 
 ---
 
