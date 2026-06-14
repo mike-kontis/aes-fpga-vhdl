@@ -137,7 +137,7 @@ The recovered plaintext is identical to the original input message.
 
 # Author
 
-Kontis Michail
+**Kontis Michail**
 
 Diploma Thesis Project
 
